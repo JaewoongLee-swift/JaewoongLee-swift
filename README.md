@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Jaewoong Lee👋
 
-<!--
-**JaewoongLee-swift/JaewoongLee-swift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻Experiences
+#### Engineer (iOS Developer) @ SMARTSOUND, Corp. (Apr, 2023 - Now)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+-  Apple Developer Academy @POSTECH 1st Generation Learner (Mar, 2022 - Dec, 2022)
+- Chemical Engineering, Kangwon Univ. (ChunCheon, South Korea) (Mar, 2015 - Aug, 2022)
+
+### Activities
+
+
+### Projects

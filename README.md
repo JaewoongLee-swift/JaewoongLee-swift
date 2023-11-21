@@ -31,7 +31,7 @@
   - [PR #3791 | Fix a typo: AdvancedUsage.md](https://github.com/Alamofire/Alamofire/pull/3791)
  
 ----
-### Released Project
+### 📱Released Project
 - 빠지가까 ([AppStore](https://apps.apple.com/kr/app/%EB%B9%A0%EC%A7%80%EA%B0%80%EA%B9%8C/id6443720411))
   - `UIKit`, `MVVM`, `HLS`, `Combine`, `Concurrency`, `AVFoundation`, `SnapKit`
 - 탄탄(TanTan) ([AppStore](https://apps.apple.com/kr/app/탄탄-tantan/id1637676314))

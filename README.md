@@ -2,6 +2,8 @@
 
 ### 💻Experiences
 #### Engineer (iOS Developer) @ SMARTSOUND, Corp. (Apr, 2023 - Now)
+`UIKit`, `Combine`, `CoreBluetooth`, `AVFoundation`, `AudioToolBox`, `CoreData`, `Alamofire`
+- Skeeper Health Mate ([AppStore](https://apps.apple.com/kr/app/skeeper-health-mate/id6473983781))
 - 유연의료용 스마트청진기 ([AppStore](https://apps.apple.com/kr/app/%EC%9C%A0%EC%97%B0%EC%9D%98%EB%A3%8C%EC%9A%A9-%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B2%AD%EC%A7%84%EA%B8%B0/id6469769935))
 - Skeeper 돌봄 ([AppStore](https://apps.apple.com/kr/app/skeeper-%EB%8F%8C%EB%B4%84/id6467072578))
 - WITHaPET ([AppStore](https://apps.apple.com/kr/app/with-a-pet/id1479492255))

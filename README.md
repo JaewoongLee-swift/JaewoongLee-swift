@@ -2,7 +2,8 @@
 
 ### 💻Experiences
 #### iOS Engineer @ MUZLIVE Inc. (Apr, 2024 - now)
-`UIKit`, `Tuist`, `SwiftUI`
+`UIKit`, `Tuist`, `SwiftUI`, `Swift Concurrency`, `Combine`, `XCTest`, `Swift Testing`
+- KiTpage ([AppStore](https://apps.apple.com/kr/app/kitpage/id6738467957))
 - KiT Player ([AppStore](https://apps.apple.com/kr/app/kit-player/id1220469784))
 - KiT Photo Album Cues ([AppStore](https://apps.apple.com/kr/app/kit-photo-album-cues/id6477992652))
 
@@ -18,6 +19,8 @@
 - Chemical Engineering, Kangwon Univ. (ChunCheon, South Korea) (Mar, 2015 - Aug, 2022)
 ------
 ### 🏃🏻Activities
+- Let's Swift 2024 Speaker, ‘늦었다고 생각할 때 진짜 늦었으니 UITest로 시나리오 테스트하기’ (Nov, 2024) ([Youtube](https://youtu.be/UHh7NzGuaRM?si=3JFo8uBY1bEumV_6))
+
 - AsyncSwift (Mar, 2023 - Now)
   - Organizer & Facilitator, [SyncSwift 2023](https://www.linkedin.com/posts/iosjaewoong_syncswift-2023-part2-3-%ED%8D%BC%EC%8B%A4%EB%A6%AC%ED%85%8C%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-activity-7119832685291716608-Y_-p?utm_source=share&utm_medium=member_desktop) (Oct 21, 2023)
   - Organizer & Host, WWDC Watch Party - <같이, Watch> (Jun 5 ~ 6, 2023)
@@ -35,7 +38,6 @@
 ### 💡Contributes
 - Alamofire | Alamofire
   - [PR #3796 | Fix typos: ParameterEncoding.swift and ResponseSerialization.swift](https://github.com/Alamofire/Alamofire/pull/3796)
-  - [PR #3791 | Fix a typo: AdvancedUsage.md](https://github.com/Alamofire/Alamofire/pull/3791)
  
 ----
 ### 📱Released Project
